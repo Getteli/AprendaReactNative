@@ -1,0 +1,17 @@
+{
+  "name": "AprendaReactNative",
+  "displayName": "AprendaReactNative",
+  "expo": {
+    "name": "AprendaReactNative",
+    "slug": "AprendaReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "android": {
+      "permissions": [
+          "ACCESS_FINE_LOCATION"
+      ]
+  }
+}
